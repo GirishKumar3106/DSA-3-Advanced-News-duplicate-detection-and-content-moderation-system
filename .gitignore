@@ -1,0 +1,25 @@
+# Java / Maven
+**/target/
+**/*.class
+
+# Eclipse
+**/.classpath
+**/.project
+**/.settings/
+
+# Node / React
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Environment files / secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+**/*.log
+
+# OS files
+Thumbs.db
+.DS_Store
